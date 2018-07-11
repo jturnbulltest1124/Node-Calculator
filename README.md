@@ -2,12 +2,6 @@
 Calculator possible of a few functions via node.js
 
 
-# Calculator
-
-## File
-
-* *None*
-
 ## Instructions
 
 * Create a command-line node application that takes in parameters like this:
