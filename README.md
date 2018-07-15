@@ -18,3 +18,6 @@ Calculator possible of a few functions via node.js
 
   * `node calculator.js exp 7 2` ... and output 49 (7 squared)
   * `node calculator.js algebra 4x+2=10`... and output 2. (Hint: Assume the algebra will always be in this exact form and will always be addition)
+
+
+Deployed: baehansung.github.io/Node-Calculator
